@@ -1,11 +1,15 @@
 # Likert-Style Stacked Bar Chart
 
-This script generates a Likert-style stacked bar chart from dummy self-generated data stored in an Excel file. The output is saved as a high-resolution PNG image.
+This script contains R code for visualizing dummy self-generated data stored in an Excel file. The output is saved as a high-resolution PNG images.
 
-## Features
-- Generates a horizontal stacked bar chart to display survey responses.
-- Uses percentage-based data for clear visualization.
-- Customizable ggplot aesthetics.
+
+## Visualization
+- **Stacked Bar Plot**: Displays overall responses for each condition.
+- **Grouped Bar Plot**: Compares "Yes" and "No" responses side by side.
+- **Pie Chart**: Highlights response distribution for a specific condition.
+- **Line Plot**: Shows trends across different conditions.
+- **Heatmap**: Visualizes the intensity of responses.
+
 
 ## Prerequisites
 Ensure the following R libraries are installed:
