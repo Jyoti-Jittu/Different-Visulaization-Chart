@@ -1,4 +1,4 @@
-# Likert-Style Stacked Bar Chart
+# Visualize the same data in different ways
 
 This script contains R code for visualizing dummy self-generated data stored in an Excel file. The output is saved as a high-resolution PNG images.
 
